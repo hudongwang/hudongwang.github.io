@@ -6,7 +6,16 @@
     <description>Recent content on 胡东旺敲键盘</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 04 Dec 2021 16:26:36 +0800</lastBuildDate><atom:link href="https://hudongwang.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Feb 2023 19:43:01 +0800</lastBuildDate><atom:link href="https://hudongwang.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>分享一个闲鱼卖二手的小技巧</title>
+      <link>https://hudongwang.xyz/posts/xianyu-tips/</link>
+      <pubDate>Sat, 04 Feb 2023 19:43:01 +0800</pubDate>
+      
+      <guid>https://hudongwang.xyz/posts/xianyu-tips/</guid>
+      <description>用这个方法一般可以比较快、用比较合适的价格把东西卖出去。</description>
+    </item>
+    
     <item>
       <title>MySQL DATETIME 时区问题防坑指南</title>
       <link>https://hudongwang.xyz/posts/mysql-datetime-timezone-pitfall/</link>
